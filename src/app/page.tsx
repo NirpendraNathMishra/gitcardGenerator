@@ -17,7 +17,7 @@ export default function Home() {
         target="_blank"
       >
         <img
-          src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=442707&theme=dark"
+          src="https://github.com/NirpendraNathMishra"
           alt="GitMe - GitMe&#0058;&#0032;Forge&#0032;Your&#0032;GitHub&#0032;Presence&#0032;with&#0032;Style&#0033;&#0032;🛠️ | Product Hunt"
           style={{ width: "125px", height: "27px",margin:'auto',"marginTop":"10px" }}
           width={125}
