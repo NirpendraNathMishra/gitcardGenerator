@@ -13,7 +13,7 @@ export default function Home() {
           Built on Cloudflare Workers
         </div>
         <a
-        href="https://www.producthunt.com/posts/gitme?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-gitme"
+        href="https://github.com/NirpendraNathMishra"
         target="_blank"
       >
         <img
